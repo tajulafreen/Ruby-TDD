@@ -18,7 +18,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 # 📖 TDD <a name="about-project"></a>
-> **TDD** This application is designed to help the librarian manage the library's collection of books and keep track of who borrows them. It provides an organized and efficient way to add students, teachers, and books, and maintain records of borrowings
+> **TDD** is app where users can
+In this project we implemented a class with some methods, we did it by doing test-driven development (TDD).
 ## 🛠 Built With <a name="built-with"></a>
 > This project is built with Ruby.
 <details>
@@ -29,15 +30,10 @@
 </details>
 
 ## Key Features <a name="key-features"></a>
-> - **Add new Book**
-> - **Create Teacher**
-> - **Create Student**
-> - **Save Records of who Borrowed Books**
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
+- **Built methods using Ruby classes**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 > To get a local copy up and running, follow these steps.
